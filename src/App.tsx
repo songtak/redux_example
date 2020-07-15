@@ -1,9 +1,12 @@
 import React from 'react';
 import './App.css';
-import {} from "./pages/Counter"
+import {Member} from './pages'
+import Counter from "./pages/Counter";
 
-const App= () => <div className="App">
-
+const App = () => <div className="App">
+    <Member/>
 </div>
+
+
 
 export default App;

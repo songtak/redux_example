@@ -1,0 +1,24 @@
+user[0]
+    userid s = hong
+    password = 888-555-1212
+    name = 홍길동
+  user[1]
+    userid s = kim
+    passwords = 877-123-1212
+    name = 김유신
+ user[2]
+    userid s = yoo
+    passwords = 877-123-1212
+    name = 유관순
+ user[3]
+    userid s = shin
+    passwords = 877-123-1212
+    name = 신사임당
+ user[4]
+    userid s = kang
+    passwords = 877-123-1212
+    name = 강감찬
+ user[5]
+    userid s = jane
+    passwords = 877-123-1212
+    name = 제인
