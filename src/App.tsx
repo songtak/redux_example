@@ -9,11 +9,11 @@ import 'mdbreact/dist/css/mdb.css';
 import SigninTest from './components/SigninTest';
 import Signin from './components/Signin';
 import HideTest from "./components/HideTest";
+import CounterComponent from "./containers/CounterComponent";
 
 const App = () => <div className="App">
-    <HideTest/>
+    <CounterComponent/>
 </div>
-
 
 
 export default App;
